@@ -1,27 +1,94 @@
 <h1 align="center">Hi 👋, I'm Michael Hollender</h1>
-<h3 align="center">Junior Software Engineer focused on Java & Spring Boot | Python for data & algorithms | Actively seeking SWE roles</h3>
-<img align="right"alt="Coding" width="400" src="https://www.codemotion.com/magazine/wp-content/uploads/2020/09/devops-1024x527.png"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelhollender&label=Profile%20views&color=0e75b6&style=flat" alt="michaelhollender" /> </p>
+<h3 align="center">
+Junior Software Engineer | Java & Spring Boot | Full-Stack Foundations | Python for Algorithms & Data
+</h3>
 
-- 🔭 I’m currently working on **AWS and Coding concepts/projects**
+<img align="right" alt="Coding" width="400"
+src="https://www.codemotion.com/magazine/wp-content/uploads/2020/09/devops-1024x527.png">
 
-- 🌱 I’m currently learning **AWS, Java, Springboot, and Python Programming**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=michaelhollender&label=Profile%20views&color=0e75b6&style=flat" alt="michaelhollender" />
+</p>
 
-- 👯 I’m looking to collaborate on **Anything Cloud, SWE & DevOps related**
+---
 
-- 💬 Ask me about **AWS and Linux**
+### 👨‍💻 About Me
+I’m a **Junior Software Engineer** focused on building **Java & Spring Boot applications**, with strong foundations in **backend development, REST APIs, and cloud-ready systems**.
 
-- 📫 How to reach me **michaelhollender41@outlook.com**
+I use **Python** for **algorithms, data processing, and interview prep**, and I’m actively strengthening my **full-stack and cloud deployment skills** using AWS and containerization.
+
+---
+
+### 🔭 Current Focus
+- Building **Spring Boot REST APIs** (controllers, services, JPA, validation)
+- Developing **Java backend projects** with clean architecture
+- Practicing **DSA & problem-solving** (Python + Java)
+- Deploying applications with **Docker & AWS**
+
+---
+
+### 🌱 Currently Learning
+- **Java & Spring Boot** (Spring MVC, Spring Data JPA, Security basics)
+- **Backend best practices** (layered architecture, testing, logging)
+- **AWS fundamentals** (EC2, S3, IAM)
+- **Python** for algorithms, scripting, and data workflows
+
+---
+
+### 👯 Open to Collaborate On
+- Java / Spring Boot backend projects  
+- Full-stack beginner-to-intermediate applications  
+- Cloud-deployed or containerized apps  
+
+---
+
+### 💬 Ask Me About
+- Java & Spring Boot fundamentals  
+- REST APIs & backend architecture  
+- AWS basics, Linux, Docker  
+- Interview prep & DSA strategy  
+
+---
+
+### 📫 How to Reach Me
+📧 **michaelhollender41@outlook.com**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/michael-hollender-aws/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaelhollender" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/michael-hollender-aws/" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages & Tools</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelhollender&show_icons=true&locale=en" alt="michaelhollender" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelhollender&" alt="michaelhollender" /></p>
+<p>
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=michaelhollender&show_icons=true&locale=en"
+    alt="GitHub stats" />
+</p>
+
+<p>
+  <img align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=michaelhollender"
+    alt="GitHub streak" />
+</p>
