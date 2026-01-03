@@ -81,14 +81,6 @@ I use **Python** for **algorithms, data processing, and interview prep**, and Iâ
 
 ---
 
-<p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=michaelhollender&show_icons=true&locale=en"
-    alt="GitHub stats" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelhollender&show_icons=true&locale=en" alt="michaelhollender" /></p>
 
-<p>
-  <img align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=michaelhollender"
-    alt="GitHub streak" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelhollender&" alt="michaelhollender" /></p>
