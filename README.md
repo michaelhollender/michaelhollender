@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Michael Hollender</h1>
-<h3 align="center">A Cloud/DevOps Engineer based in Pennsylvania(United States)</h3>
+<h3 align="center">Junior Software Engineer focused on Java & Spring Boot | Python for data & algorithms | Actively seeking SWE roles</h3>
 <img align="right"alt="Coding" width="400" src="https://www.codemotion.com/magazine/wp-content/uploads/2020/09/devops-1024x527.png"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelhollender&label=Profile%20views&color=0e75b6&style=flat" alt="michaelhollender" /> </p>
 
 - 🔭 I’m currently working on **AWS and Coding concepts/projects**
 
-- 🌱 I’m currently learning **AWS, PowerShell, Python, and Bash Programming**
+- 🌱 I’m currently learning **AWS, Java, Springboot, and Python Programming**
 
-- 👯 I’m looking to collaborate on **Anything Cloud & DevOps related**
+- 👯 I’m looking to collaborate on **Anything Cloud, SWE & DevOps related**
 
 - 💬 Ask me about **AWS and Linux**
 
